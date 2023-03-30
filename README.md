@@ -15,12 +15,30 @@ Program Answer jest mały i przenośny, co oznacza, że można go łatwo przenie
 
                                                                             CECHY:
 1.Program Answer to oprogramowanie do sortowania elementów w trzech kolumnach.
+
+
 2.Posiada ono wiele funkcji ułatwiających sortowanie, takich jak przenoszenie elementów między kolumnami czy zmiana rozmiaru czcionki.
+
+
 3.Program charakteryzuje się wysoką wydajnością, co pozwala na szybkie i sprawnie sortowanie danych
+
+
 4.Jest on również bardzo prosty w obsłudze, co sprawia, że każdy użytkownik, bez względu na swoje doświadczenie, może z niego korzystać.
+
+
 5.Program posiada funkcję automatycznego zapisywania danych, dzięki czemu użytkownik nie musi martwić się o ich utratę.
+
+
 6.W przypadku niechcianego usunięcia danych, program umożliwia łatwe załadowanie pliku z bazy.
+
+
 7.W programie Answer można łatwo sortować dane w kolumnach według nazw od A do Z.
+
+
 8.W każdej kolumnie można dodawać i usuwać elementy, jak również całkowicie usuwać całą listę.
+
+
 9.Program jest mało ważący i przenośny, co pozwala na jego łatwe przenoszenie między różnymi urządzeniami.
+
+
 10.Program Answer jest dostępny na licencji płatnej, co zapewnia użytkownikowi prawo do korzystania z niego, po uprzednim nabyciu odpowiedniej licencji.
